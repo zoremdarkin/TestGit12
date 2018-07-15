@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-=======
-sfdf
-
-My line is not here how Can I see this 
->>>>>>> d99fd193188cd4be98039af037d78e548100d110
